@@ -1,0 +1,18 @@
+¿Qué tecnología se utiliza para dar estilos a las webs?
+Javascript
+HTML
+CSS
+NodeJS
+3
+Indica el sistema operativo que es libre
+MAC OS
+Windows
+iOS
+Linux
+4
+Indica un ejemplo de SGBD:
+MySQL
+Visual Code
+Word
+Firefox
+1
